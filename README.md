@@ -1,5 +1,6 @@
 # Javascript-Notes
 Call, apply, bind
+
 Polyfill for bind method
 Currying
 Debouncing
